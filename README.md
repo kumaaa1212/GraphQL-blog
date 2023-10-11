@@ -1,2 +1,9 @@
 # GraphQL-blog
-# GraphQL-blog
+
+
+
+
+
+
++ Next.js
++ GraphQL
